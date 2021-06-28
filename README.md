@@ -1,2 +1,2 @@
-# minecraft-auto-fisher
+# Minecraft Auto Fisher
 Automatically fish in Minecraft
